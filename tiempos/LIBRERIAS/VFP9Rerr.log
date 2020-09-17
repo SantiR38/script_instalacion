@@ -1,0 +1,8 @@
+
+
+Fatal error: Exception code=C0000005 @ 05/07/2012 08:17:05 AM. Error log file: D:\sistemas\Tiempos\VFP9Rerr.log
+	Called from -  tiem2100.apantalla line 58  {d:\sistemas\tiempos\forms\tiem2100.sct d:\sistemas\tiempos\forms\tiem2100.sct}
+	Called from -  tiem2100.next line 22  {d:\sistemas\tiempos\forms\tiem2100.sct d:\sistemas\tiempos\forms\tiem2100.sct}
+	Called from -  tiem2100.siguiente.click line 41  {d:\sistemas\tiempos\forms\tiem2100.sct d:\sistemas\tiempos\forms\tiem2100.sct}
+	Called from -  ON...  line 0  { }
+	Called from -  tiem0000 line 325  {D:\sistemas\Tiempos\progs\tiem0000.prg d:\sistemas\tiempos\tiempos.exe}
